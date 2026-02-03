@@ -124,4 +124,6 @@
   - Copy to clipboard functionality
 - Styled with modern gradient UI
 - Published via GitHub Pages
+- Fixed Jekyll build error by adding .nojekyll file
+- URL: https://tesolchina.github.io/genAI2026/courses/UCLC1008/AIagentDemo/teacherJumpIntoWater/guide_game_FRT.html
 - Task complete
