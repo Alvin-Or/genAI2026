@@ -111,3 +111,17 @@
   - Tables for stance types, abstract analysis, paragraph structure
   - Examples from Articles A and B throughout
 - Task complete
+
+[2026-02-03] Task: Create interactive HTML writing guide game
+- Created guide_game_FRT.html in teacherJumpIntoWater
+- Features:
+  - 12-step guided writing process matching sentence structure
+  - Progress bar tracking completion
+  - Citation quick reference card
+  - Purpose, excerpt, paraphrase direction for each step
+  - Writing textarea with word count
+  - Final summary preview with checklist
+  - Copy to clipboard functionality
+- Styled with modern gradient UI
+- Published via GitHub Pages
+- Task complete
