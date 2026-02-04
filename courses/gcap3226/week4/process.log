@@ -454,3 +454,7 @@ The guide successfully bridges theoretical concepts (random variables, SimPy) wi
 **Repository:** tesolchina/genAI2026  
 **Branch:** main  
 **Status:** Ready for student use
+
+## Update: 2026-02-04
+- Created topic options for `EuropeanStudies` and `RetailManagement` projects
+- Added action plans, data sources, and research questions in new `topicOptions.md` files
