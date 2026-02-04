@@ -28,13 +28,13 @@ Open the roadmap in your browser (click to expand steps and see AI vs human role
 
 | Topic | Folder | README | Roadmap (HTML) |
 |-------|--------|--------|----------------|
-| Flu Shot | [flu-shot/](flu-shot/) | [README](flu-shot/README.md) | [roadmap.html](flu-shot/roadmap.html) |
-| Colorectal Cancer Screening | [colorectal-cancer-screening/](colorectal-cancer-screening/) | [README](colorectal-cancer-screening/README.md) | [roadmap.html](colorectal-cancer-screening/roadmap.html) |
-| Road Safety | [road-safety/](road-safety/) | [README](road-safety/README.md) | [roadmap.html](road-safety/roadmap.html) |
-| eMPF | [empf/](empf/) | [README](empf/README.md) | [roadmap.html](empf/roadmap.html) |
-| CDCC Pilot Scheme | [cdcc/](cdcc/) | [README](cdcc/README.md) | [roadmap.html](cdcc/roadmap.html) |
-| Rodent Control | [rodent-control/](rodent-control/) | [README](rodent-control/README.md) | [roadmap.html](rodent-control/roadmap.html) |
-| Bus Stop Merge | [bus-stop-merge/](bus-stop-merge/) | [README](bus-stop-merge/README.md) | [roadmap.html](bus-stop-merge/roadmap.html) |
+| Flu Shot | [flu-shot/](flu-shot/) | [README](flu-shot/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/flu-shot/roadmap.html) |
+| Colorectal Cancer Screening | [colorectal-cancer-screening/](colorectal-cancer-screening/) | [README](colorectal-cancer-screening/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/colorectal-cancer-screening/roadmap.html) |
+| Road Safety | [road-safety/](road-safety/) | [README](road-safety/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/road-safety/roadmap.html) |
+| eMPF | [empf/](empf/) | [README](empf/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/empf/roadmap.html) |
+| CDCC Pilot Scheme | [cdcc/](cdcc/) | [README](cdcc/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/cdcc/roadmap.html) |
+| Rodent Control | [rodent-control/](rodent-control/) | [README](rodent-control/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/rodent-control/roadmap.html) |
+| Bus Stop Merge | [bus-stop-merge/](bus-stop-merge/) | [README](bus-stop-merge/README.md) | [roadmap.html](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/bus-stop-merge/roadmap.html) |
 
 ---
 

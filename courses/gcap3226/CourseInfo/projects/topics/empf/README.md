@@ -22,6 +22,6 @@ Key questions: How is user adoption and satisfaction measured? What data on plat
 
 ## Links
 
-- [Enhanced project approaches](../enhancedApproaches.md) — workflow, math tools, checklist  
-- [Project workflow (HTML)](../projectWorkflow.html) — interactive 7-step overview  
-- [Topic roadmap](roadmap.md) | [Roadmap (HTML)](roadmap.html) — actionable steps and AI/human roles  
+- [Enhanced project approaches](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/enhancedApproaches.md) — workflow, math tools, checklist  
+- [Project workflow (HTML)](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/projectWorkflow.html) — interactive 7-step overview  
+- [Topic roadmap](roadmap.md) | [Roadmap (HTML)](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/empf/roadmap.html) — actionable steps and AI/human roles  

@@ -22,6 +22,6 @@ Key questions: What rodent or pest data is collected and published by district? 
 
 ## Links
 
-- [Enhanced project approaches](../enhancedApproaches.md) — workflow, math tools, checklist  
-- [Project workflow (HTML)](../projectWorkflow.html) — interactive 7-step overview  
-- [Topic roadmap](roadmap.md) | [Roadmap (HTML)](roadmap.html) — actionable steps and AI/human roles  
+- [Enhanced project approaches](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/enhancedApproaches.md) — workflow, math tools, checklist  
+- [Project workflow (HTML)](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/projectWorkflow.html) — interactive 7-step overview  
+- [Topic roadmap](roadmap.md) | [Roadmap (HTML)](https://tesolchina.github.io/genAI2026/courses/gcap3226/CourseInfo/projects/topics/rodent-control/roadmap.html) — actionable steps and AI/human roles  
