@@ -1,0 +1,47 @@
+# Project Meta Director — process log
+
+**Purpose:** Coordinate web search and feedback across all project teams (groups 1–6). Reference: `PerformWebSearch.md`.
+
+**Model:** `courses/gcap3056/group6-rare-disease` (process.log, searchPlan, AIwebsearch/AIsearchReport, hypotheses, HypotheseQuestions).
+
+---
+
+## 1. Scope
+
+- **Groups:** group1-legco-data-access, group2-fire-service-1, group3-eHealth, group4-fire-service-2, group5-prevent-sexual-harassment, group6-rare-disease.
+- **Tasks:** (1) Review planNextSteps.md and group6 progress; (2) Perform 5 rounds of web search per project (each round informed by previous); (3) Create WebSearchReport.md per group; (4) Create seekFeedback.md per group; (5) Update this process.log in real time.
+- **Teacher:** Will update notes in Google Docs and discuss hypotheses with each group for another round of targeted search.
+
+---
+
+## 2. Review completed
+
+- **group6-rare-disease:** process.log, searchPlan.md, AIwebsearch/AIsearchReport.md, hypotheses.md reviewed. Focus: Mainland procurement vs independent drug regime; 7 queries already run; report has 12+ items. Progress: search done; hypotheses and HypotheseQuestions exist.
+- **Groups 1–5:** planNextSteps.md reviewed for each. All follow same workflow (public info → focus → search plan → AI web search/report → hypotheses → questions). Gaps: no search report or hypotheses yet; need WebSearchReport and seekFeedback.
+
+---
+
+## 3. Round-by-round search (5 rounds per project)
+
+**Method:** For each project, run web searches explicit about how and why; after each round use findings to plan the next. Document in each group’s WebSearchReport.md.
+
+**Format (per searchExpectations.md):** Search results include **clickable links**; **article titles, dates and summaries**; **relevance to project goals**; **follow-up suggestions** for the team.
+
+**Status:**
+- **Rounds 1–5 (all in one go):** Completed for all 6 groups. For each group, WebSearchReport.md was updated with: (1) 5 rounds of searches (queries, domain, purpose per round); (2) results with **clickable links**, **title**, **date**, **summary**, **relevance to project goals**, and **follow-up suggestions**; (3) a “Suggestions for the team (follow-up)” section. Group 6 WebSearchReport.md integrates with existing AIwebsearch/AIsearchReport.md and adds the same format for 5 rounds.
+- **seekFeedback.md** already in place per group (Google doc update, Moodle task 4.1, teacher doc link). Teacher will discuss hypotheses with each group; further targeted searches can be run after that feedback.
+
+---
+
+## 4. Deliverables
+
+- **WebSearchReport.md** — in each group folder: 5 rounds completed; searches conducted (how and why); results with **clickable links**, **titles**, **dates**, **summaries**, **relevance to project goals**, and **follow-up suggestions** (per searchExpectations.md).
+- **seekFeedback.md** — in each group folder: ask team to update Google docs and reply to Moodle task 4.1; link to teacher’s Google doc.
+- **process.log** — this file; updated in real time.
+
+---
+
+## 5. References
+
+- Teacher Google doc (notes): https://docs.google.com/document/d/1GCsy8H3-49Z8JgxrxmhFEQDDqKoNTiLQyNfczot1Kd0/edit?tab=t.omet00l6dw0c#heading=h.ee8yny75hqnd
+- PerformWebSearch.md, searchExpectations.md (this folder); group6-rare-disease/process.log, AIwebsearch/AIsearchReport.md.
